@@ -45,3 +45,5 @@ console.log("After appending data");
 
 // readFileSync("./example.txt");
 // writeFileSync("./example.txt","This data is written thriugh sync fun:'writeFileSync'");
+
+
