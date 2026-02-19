@@ -14,7 +14,7 @@ async function readAndWrite() {
       JSON.stringify(students, null, 2)
     );
 
-    console.log("File copied successfully ✅");
+    console.log("File copied successfully");
   } catch (error) {
     console.error("Error:", error.message);
   }
